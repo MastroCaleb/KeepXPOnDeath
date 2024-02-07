@@ -1,8 +1,8 @@
-# Fabric Example Mod
+# Keep Xp On Death
 
-## Setup
+Requested by @abudq
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Never lose any xp upon death.
 
 ## License
 
