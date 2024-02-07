@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "caleb.keep.xp.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "KeepXpOnRespawnMixin",
+    "NoXpDropMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

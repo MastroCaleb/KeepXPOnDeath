@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "keepxp",
+  "version": "${version}",
+
+  "name": "Keep XP On Death",
+  "description": "Upon death keep your xp safe!",
+  "authors": [
+    "Caleb"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/keepxp/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+  },
+  "mixins": [
+    "keepxp.mixins.json"
+  ]
+}
